@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.reminder-form {
+  margin-bottom: 20px;
+}
+
+.reminder-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.reminder-form input {
+  margin-bottom: 10px;
+}
+
+#reminder-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#reminder-list li {
+  margin-bottom: 5px;
+}
