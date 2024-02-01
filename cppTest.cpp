@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	cout <<"Krishna" ;
+	cout <<"Again Hare Krishna" ;
 	return 0;
 }
